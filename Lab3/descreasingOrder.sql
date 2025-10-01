@@ -1,1 +1,1 @@
-SELECT * FROM studentdb.student ORDER BY Marks DESC; 
+SELECT * FROM studentdb.student ORDER BY Marks ASC;
